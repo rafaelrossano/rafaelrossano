@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hi there 
 
-<!--
-**rafaelrossano/rafaelrossano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rafael Rossano, a passionate software developer and tech entusiast. I'm currently looking for my first opportunity as a Junior Backend Developer. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Expertise
+
+My primary focus is on Back-end developing, where  I specialize in building efficient and robust solutions to meet the needs of clients. I'm a .NET developer focused on ASP.NET Core. I have extensive knowledge of SQL, HTML, CSS and Javascript. </br>
+I love working on the backend because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
+
+# 💻 Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=lauragrassig&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lauragrassig&theme=neon&hide_border=false"  width="400px" />
+
+
+
+
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=lauragrassig&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
